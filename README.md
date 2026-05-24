@@ -1,4 +1,4 @@
-# KigyokGUI
+# Kígyók - GUI
 ```
  A kigyok.csv fájl különböző kígyók adatait tartalmazza,
  pontosvesszővel elválasztva, utf-8 kódolással. VIGYÁZAT, az első sor fejléc!
